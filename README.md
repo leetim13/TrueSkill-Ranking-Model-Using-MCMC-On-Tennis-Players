@@ -1,4 +1,4 @@
-This project demonstrates Stochastic Variational Inference in the TrueSkill Model, using Bayesian inference in large models with continuous latent variables and stochastic variational inference with Markov Chain Monte Carlo on tennis data sets.
+This project demonstrates Stochastic Variational Inference in the TrueSkill Model, using Bayesian inference in large models with continuous latent variables and Markov Chain Monte Carlo on tennis data sets.
 
 ## Implementations include:
 * `Project.toml` packages for the Julia environment.
