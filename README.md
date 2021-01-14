@@ -1,5 +1,10 @@
 This project demonstrates Stochastic Variational Inference in the TrueSkill Model, using Bayesian inference in large models with continuous latent variables and Markov Chain Monte Carlo on tennis data sets.
 
+<p>
+<img src="./samples/training.gif" width="450"/>
+<img src="./samples/two_players.png" width="450"/>
+ </p>
+
 ## Implementations include:
 * `Project.toml` packages for the Julia environment.
 * `autograd_starter.py` Python with autograd.
